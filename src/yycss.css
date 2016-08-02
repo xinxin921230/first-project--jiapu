@@ -1,0 +1,175 @@
+body {
+  background-color: #e1e3e4;
+  margin: 0;
+}
+
+.nav{
+  /*height: 52px;*/
+  /*margin-top: 40px;*/
+  /*background-color: #0f0f0f;*/
+  /*width: 1000px;*/
+}
+
+.navbar-default .navbg {
+margin-left: 120px;
+}
+
+
+
+.navbar-default .navbg li a:hover{
+  color: white;
+}
+.navbar-default .navbg li a{
+  margin-left: 10px;
+  font-family:'楷体' , serif;
+  color: white;
+
+  
+}
+
+.navbg li:hover{
+  background-color: rgba(0, 0, 0, 0.4);
+  /*背景色是有透明度的白色*/
+}
+
+.navba{
+  border-radius: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+
+}
+
+
+.bgcolor{
+  background-color: white;
+  height: 40px;
+  padding-top: 10px;
+  padding-left: 40px;
+  width: 100%;
+  font-family:'楷体' , serif;
+  text-align: center;
+}
+
+
+.lefta{
+  margin-top: 22px;
+  font-family:'微软雅黑' , serif;
+  font-size: 12px;
+}
+.righta{
+  margin-top: 22px;
+  /*font-family:'微软雅黑' , serif;*/
+  /*font-size: 12px;*/
+  /*float: left;*/
+  /*padding-bottom: 50px;*/
+  /*margin-left: 5px ;*/
+}
+.rowa{
+  width: 100%;
+}
+
+.head{
+  width: 1000px;
+}
+
+
+.le{
+  margin-bottom: 20px;
+  background-color: white;
+  padding-bottom: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-family:'微软雅黑' , serif;
+  /*font-size: 12px;*/
+  color:#5e5e5e;
+  line-height:180%;
+}
+
+.le__image {
+  padding: 10px;
+}
+
+
+.lc{
+  margin-bottom: 20px;
+  background-color: white;
+  padding-bottom: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.ld{
+  font-family:'楷体' , serif;
+  font-size: 20px;
+  color:#5e5e5e;
+  margin-bottom: 20px;
+  background-color: white;
+  padding: 12px;
+}
+
+
+.ld p{
+  text-align: center;
+}
+
+.text{
+  margin-top: 20px;
+  margin-left: -10px;
+  margin-right: -10px;
+
+}
+
+
+.line{
+  border-bottom:1px solid #cacaca;
+  padding-top: 10px;
+}
+
+.pica{
+  padding-top: 10px;
+
+}
+.pica img{
+  width:100%;
+}
+
+.lina{
+  padding-bottom: 10px;
+  border-bottom:1px solid #e4e4e4;
+  padding-top: 20px;
+  margin-top: 0;
+
+}
+
+
+.lina:hover{
+  background-color: #f4f5f5
+}
+
+
+
+
+
+
+.boxa{
+  background-color: #8a807a;
+  width:100%;
+}
+
+.more{
+  float: right;
+  font-family:'楷体' , serif;
+  font-size: 16px;
+  margin-top:10px ;
+}
+
+.picb{
+  margin-right: 20px;
+  font-size:40px;
+}
+
+.title-list{
+  padding: 10px;
+  font-size: 18px;
+  font-family:'楷体' , serif;
+}

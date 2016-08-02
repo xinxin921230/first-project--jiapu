@@ -1,0 +1,19 @@
+{
+  "name": "chen-zhou-liu-shi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd scripts && gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.qingtime.cn:web/chen-zhou-liu-shi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
